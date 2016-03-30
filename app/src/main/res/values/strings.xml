@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paylabas DeviceId Finder</string>
+    <string name="find_device_id">Get My Device Id</string>
+
+    <string name="device_id_not_found">Sorry! Cannot Find Your Device Id</string>
+    <string name="device_id_copied_msg">Device Id Copied!</string>
+    <string name="device_id">Device Id: </string>
+</resources>
